@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trey801
+- 👋 Hi, I’m @Trey Landgrebe
 - 👀 Sports, Tech, Video Games, and Running
 - 🌱 Software QA
 - 💞️ I’m looking to collaborate on ...
